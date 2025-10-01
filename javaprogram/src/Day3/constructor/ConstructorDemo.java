@@ -38,8 +38,8 @@ public class ConstructorDemo {
 		
 		
 		
-		//Customer c=new Customer(name, id, city);
-		//System.out.println(c1);
+		Customer c1=new Customer(name, city, id);
+		System.out.println(c1);
 		
 		sc.close();
 		
