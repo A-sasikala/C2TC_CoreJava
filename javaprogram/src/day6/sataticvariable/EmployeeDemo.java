@@ -1,0 +1,19 @@
+package day6.sataticvariable;
+
+public class EmployeeDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		// string and int.
+		System.out.println(Employee.companyName);
+		Employee e = new Employee("Shubh", 123);
+		System.out.println(e);
+		e = new Employee("Deep", 321);
+		System.out.println(e);
+		
+
+
+	}
+
+}
