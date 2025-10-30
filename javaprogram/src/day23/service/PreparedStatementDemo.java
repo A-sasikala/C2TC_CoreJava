@@ -8,7 +8,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.tnsif.daytwentytwo.preparedstatementinterface.DBUtil;
-
 public class PreparedStatementDemo {
 
 	static Connection cn;
